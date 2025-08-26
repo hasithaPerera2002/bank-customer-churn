@@ -1,7 +1,7 @@
 id,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary
 15000,15682433.0,Smith,751.0,France,Female,38.0,3.0,0.0,2.0,1.0,0.0,145558.42
 15001,15686835.0,T'ien,711.0,Germany,Female,43.0,2.0,143680.36,2.0,1.0,1.0,118188.15
-15002,15784491.0,Ch'iu,592.0,Spain,Male,40.0,4.0,0.0,2.0,1.0,1.0,36754.13
+    15002,15784491.0,Ch'iu,592.0,Spain,Male,40.0,4.0,0.0,2.0,1.0,1.0,36754.13
 15003,15607986.0,Brown,676.0,Germany,Male,48.0,5.0,121629.22,1.0,1.0,0.0,122221.71
 15004,15622003.0,Baresi,746.0,France,Male,36.0,5.0,0.0,2.0,1.0,1.0,97468.44
 15005,15640953.0,Shih,678.0,France,Male,25.0,7.0,145988.65,2.0,1.0,1.0,102233.73
